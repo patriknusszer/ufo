@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "655d0ac2bfc7eeb3491d3d2e943b314b2a68599f2ef537cfaa4fb2c9c3967164"
+    }
+  ],
+  "containerPath" : "/Users/patriknusszer/Desktop/ufok/ufok.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Build/Products",
+      "pchPath" : "/Users/patriknusszer/Desktop/ufok/DerivedData/ufok/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
